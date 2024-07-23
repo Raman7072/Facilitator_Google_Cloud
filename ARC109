@@ -1,3 +1,5 @@
+export REGION=
+
 curl -LO https://raw.githubusercontent.com/DhruvChaurasia3418/Skill-Badge-archive/17f5b7e54483d27174a697240dc9b930c3759be4/techvine.sh
 sudo chmod +x techvine.sh
 ./techvine.sh
