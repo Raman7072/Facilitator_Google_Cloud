@@ -1,0 +1,3 @@
+gcloud pubsub topics create MyTopic
+
+gcloud pubsub subscriptions create MySub --topic=MyTopic
