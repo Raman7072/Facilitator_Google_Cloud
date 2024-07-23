@@ -1,0 +1,5 @@
+export REGION=
+
+gcloud config set compute/region $REGION
+gcloud pubsub topics create cron-topic
+gcloud pubsub subscriptions create cron-sub --topic cron-topic
