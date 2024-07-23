@@ -1,0 +1,5 @@
+export LOCATION=
+
+curl -LO https://raw.githubusercontent.com/DhruvChaurasia3418/Skill-Badge-archive/5954572c02f6debd93af127fac0999ec80da956a/techvine_ARC117
+sudo chmod +x techvine_ARC117
+./techvine_ARC117
